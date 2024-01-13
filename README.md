@@ -1,2 +1,2 @@
 # Azure-Deployment-ML-Model
-Diabetes Prediction Using Support Vector Machines. My AI course project with Streamlit and azure deployment..
+Diabetes Prediction Using Support Vector Machines. MLSA event project with Streamlit and azure deployment..
